@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.91733691.chunk.css",
-    "main.js": "./static/js/main.09d82c52.chunk.js",
-    "main.js.map": "./static/js/main.09d82c52.chunk.js.map",
+    "main.js": "./static/js/main.4ef34a08.chunk.js",
+    "main.js.map": "./static/js/main.4ef34a08.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0c63c01b.js",
     "runtime-main.js.map": "./static/js/runtime-main.0c63c01b.js.map",
     "static/js/2.1a6dcbb7.chunk.js": "./static/js/2.1a6dcbb7.chunk.js",
@@ -54,7 +54,7 @@
     "static/media/globe.0591a38a.svg": "./static/media/globe.0591a38a.svg",
     "static/media/governance.b3b4d137.svg": "./static/media/governance.b3b4d137.svg",
     "static/media/hamburger.01f8f3fa.svg": "./static/media/hamburger.01f8f3fa.svg",
-    "static/media/hector-nav-header.5c8ad42a.svg": "./static/media/hector-nav-header.5c8ad42a.svg",
+    "static/media/hector-nav-header.3b8ae113.svg": "./static/media/hector-nav-header.3b8ae113.svg",
     "static/media/info-fill.fbe44a30.svg": "./static/media/info-fill.fbe44a30.svg",
     "static/media/info.b59033d9.svg": "./static/media/info.b59033d9.svg",
     "static/media/medium.51da7523.svg": "./static/media/medium.51da7523.svg",
@@ -80,6 +80,6 @@
     "static/js/runtime-main.0c63c01b.js",
     "static/js/2.1a6dcbb7.chunk.js",
     "static/css/main.91733691.chunk.css",
-    "static/js/main.09d82c52.chunk.js"
+    "static/js/main.4ef34a08.chunk.js"
   ]
 }

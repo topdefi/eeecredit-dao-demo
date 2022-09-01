@@ -78,8 +78,8 @@
 }
 
 .app.light .MuiTypography-h6 {
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 15px;
+  line-height: 18px;
 }
 
 .app.light .branding-header .wallet-link {
@@ -343,8 +343,8 @@
 }
 
 .app.dark .MuiTypography-h6 {
-  font-size: 18px;
-  line-height: 21px;
+  font-size: 15px;
+  line-height: 18px;
   font-weight: 400;
 }
 
