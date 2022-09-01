@@ -13,7 +13,7 @@
 */
 
 .app.light {
-  background: -o-linear-gradient(87.54deg, #b3fcff82 -9.31%, rgba(255, 240, 217, 0) 102.37%), #ffffff;
+  background: #DCF0F2;
   /* background: #FFFFFF */
 }
 
@@ -113,10 +113,10 @@
   border-radius: 5px;
 }
 .app.light .dapp-topbar .MuiButton-containedSecondary {
-  background-color: transparent;
+  background-color:	#16aa8a;
 }
 .app.light .dapp-topbar .MuiButton-containedSecondary:hover {
-  background-color: transparent !important;
+  background-color: #19c19c !important;
   color: #fff !important;
   border: 1px solid rgba(0, 234, 255, 0.5) !important;
 }
@@ -150,15 +150,15 @@
   fill: #ff9900;
 }
 .app.light .MuiToggleButton-root {
-  background: transparent;
+  background:#16aa8a;
 }
 .app.light .MuiToggleButton-root:hover {
   border: 1px solid rgba(255, 153, 0, 0.5);
-  background: transparent;
+  background: #19c19c;
 }
 
 .app.light .stake-wallet-notification .wallet-menu .connect-button:hover {
-  background: transparent;
+  background: #19c19c;
 }
 
 .MuiPaper-root {
@@ -176,7 +176,7 @@
 }
 
 .app.light .MuiButton-fullWidth:hover {
-  background: transparent;
+  background: #19c19c;
 }
 
 .app.light .MuiButton-outlinedPrimary {
@@ -186,7 +186,7 @@
 }
 
 .app.light .MuiButton-outlinedPrimary:hover {
-  background: transparent;
+  background: #19c19c;
   border: 1px solid rgb(0, 255, 221);
 }
 
@@ -244,7 +244,7 @@
 }
 
 .app.light .dapp-topbar .MuiButton-containedSecondary:hover {
-  background-color: transparent;
+  background-color: #19c19c;
   color: #222;
   border: 1px solid rgba(255, 153, 0, 0.5);
 }
@@ -264,7 +264,7 @@
 */
 
 .app.dark {
-  background: #0b1b0b;
+  background: #0c0c0c;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   /* -webkit-box-shadow: 7px 11px 63px rgba(255, 153, 0, 0.1);
@@ -282,7 +282,7 @@
 }
 
 .app.dark .stake-wallet-notification .wallet-menu .connect-button {
-  background: transparent;
+  background: #19c19c;
   border-radius: 5px;
   font-size: 18px;
   line-height: 21px;
@@ -323,7 +323,7 @@
 }
 
 .MuiButton-containedPrimary {
-  background-color: transparent !important;
+  background-color: #19c19c !important;
   border: 1px solid #ffff !important;
   color: #fff !important;
 }
@@ -384,7 +384,7 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   border-radius: 5px;
-  background: #e1462b;
+  background: #45BA48;
 }
 .app.dark #ohm-menu-button:hover path {
   fill: #fff;
@@ -405,7 +405,7 @@
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  background: #e1462b;
+  background: #45BA48;
 }
 
 .app.dark .pending-txn-container .MuiButton-label span {
@@ -536,7 +536,7 @@
 }
 
 .app.dark .dapp-topbar .MuiButton-containedSecondary:hover {
-  background-color: transparent;
+  background-color: #19c19c;
   border: 1px solid rgba(46, 187, 206, 0.5) !important;
 }
 
